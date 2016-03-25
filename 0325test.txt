@@ -1,0 +1,19 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>얘의 이름</title>
+		<style type="text/css">
+			h1{background-color:#4d2;}			/*h1의 배경색 설정*/
+			p{background-color:#880702; color:#ffffff;}	/*p의 배경색 설정*/
+			p:active + a{display:block;}			
+			a:hover{color:#ffffff;}				/*a에 마우스를 올렸을때 색상 변화*/
+			/* 내용 파악 */
+		</style>
+	</head>
+	<body>
+		<h1>제 1장</h1>		<!--하나의 웹문서를 만들기 위한 문서 제목-->
+		<p>내용이 솰라솰라</p>	<!--문서의 내용을 작성하는 곳-->
+		<a href="http://daum.net">가자!</a>	<!--링크연결-->
+	</body>
+</html>
